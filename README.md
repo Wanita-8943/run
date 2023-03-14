@@ -76,7 +76,7 @@
  - รอบที่ 2 ([(2e-4)G2 Freeze 250](https://github.com/Wanita-8943/run/blob/main/GG2_Train_2e_4_Freeze.ipynb))  
  - รอบที่ 3 ([(8e-5)G3 Freeze 250](https://github.com/Wanita-8943/run/blob/main/B0_3_(8e-5)_Gender3_Train_Freeze.ipynb))
  - รอบที่ 4 ([(8e-5)G4 Unfreeze 250](https://github.com/Wanita-8943/run/blob/main/B0_4_(8e-5)_Gender4_Train_Unfreeze.ipynb))
- - รอบที่ 4 ([(8e-5)G4 Unfreeze 500]())
+ - รอบที่ 4 ([(8e-5)G4 Unfreeze 500](https://github.com/Wanita-8943/run/blob/main/B0_4_(8e-5)_Gender4_Train_Unfreeze_500.ipynb))
  
   
  ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
@@ -90,6 +90,8 @@
    - MAE: 0.2968421052631579
    - MSE: 0.2968421052631579
    - RMSE: 0.5448321808255804
+ - รอบที่ 4 500 ([%]())  
+
    
 # B3
 # ครั้งที่ 5
