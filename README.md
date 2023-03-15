@@ -101,9 +101,24 @@
 ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 ([(2e-5)G1 Freeze 250](https://github.com/Wanita-8943/run/blob/main/B3_G1_Train_2e-5_Freeze.ipynb))
  - รอบที่ 2 ([(2e-5)G2 Freeze 250](https://github.com/Wanita-8943/run/blob/main/B3_G2_Train_2e-5_Freeze.ipynb))  
- - รอบที่ 4 ([(2e-5)G3 Unfreeze 250](https://github.com/Wanita-8943/run/blob/main/B3_G3_Train_2e-5_Unfreeze.ipynb))
+ - รอบที่ 3 ([(2e-5)G3 Unfreeze 250](https://github.com/Wanita-8943/run/blob/main/B3_G3_Train_2e-5_Unfreeze.ipynb))
   
  ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
  - รอบที่ 1 250 ([58.42%](https://github.com/Wanita-8943/run/blob/main/Predict_B3_G1_2e-5_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))
  - รอบที่ 2 250 ([61.10%](https://github.com/Wanita-8943/run/blob/main/Predict_B3_G2_2e-5_250%E0%B8%A3%E0%B8%AD%E0%B8%9A.ipynb))  
  - รอบที่ 3 250 ([61.58%](https://github.com/Wanita-8943/run/blob/main/Predict_B3_G3_2e-5_250%E0%B8%A3%E0%B8%AD%E0%B8%9A_Un.ipynb))
+ 
+# ครั้งที่ 7
+ ## Train Gender(แบ่งตามเพศชายและเพศหญิง)
+ - รอบที่ 1 ([(2e-4)B3G1 Freeze 250](https://github.com/Wanita-8943/run/blob/main/1_B3_Train_Freeze.ipynb))
+ - รอบที่ 2 ([(2e-4)B3G2 Freeze 250](https://github.com/Wanita-8943/run/blob/main/2_B3_G2_Train_Freeze.ipynb))  
+ - รอบที่ 3 ([(2e-5)B3G3 Unfreeze 250](https://github.com/Wanita-8943/run/blob/main/3_B3_G3_Train_Unfreeze.ipynb))
+ - รอบที่ 3 ([(8e-5)B3G3 Unfreeze 250](https://github.com/Wanita-8943/run/blob/main/33_B3_G3_Train_Freeze(8e-5).ipynb))
+ 
+  
+ ## Predict Gender(แบ่งตามเพศชายและเพศหญิง)
+ - รอบที่ 1 250 ([60.63%](https://github.com/Wanita-8943/run/blob/main/1_Predict_B3_G1_Freeze.ipynb))
+ - รอบที่ 2 250 ([59.47%](https://github.com/Wanita-8943/run/blob/main/2_Predict_B3_G2_Freeze.ipynb))  
+ - รอบที่ 3 250 ([61.16%](https://github.com/Wanita-8943/run/blob/main/3_Predict_B3_G3_Unfreeze.ipynb))
+ - รอบที่ 3 (8e-5) 250 ([62.21%](https://github.com/Wanita-8943/run/blob/main/33_Predict_B3_G3_Freeze_250(8e-5).ipynb))
+ 
